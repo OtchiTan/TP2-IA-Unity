@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "TP2-IA-Unity.slnx"
+    "dotnet.defaultSolution": "FSM-NavMesh-Temp.slnx"
 }
